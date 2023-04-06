@@ -1,0 +1,68 @@
+{
+    "categories" :
+    [
+        {
+                "nom" : "Nos Incontournable",
+                "products":[
+                    {
+                        "name" :"Brochette",
+                        "price" : 17,
+                        "image" : "./images/brochette.jpg"
+                    },
+                    {
+                        "name" :"salade",
+                        "price" : 10,
+                        "image" : "./images/salade.webp"
+                    },
+                    {
+                        "name" :"Pate",
+                        "price" : 15,
+                        "image" : "./images/pate.webp"
+                    }
+                ]
+            },
+
+            {
+                "nom" : "Nos burger",
+                "products":[
+                    {
+                        "name" :"Brochette",
+                        "price" : 17,
+                        "image" : "./images/brochette.jpg"
+                    },
+                    {
+                        "name" :"salade",
+                        "price" : 10,
+                        "image" : "./images/salade.webp"
+                    },
+                    {
+                        "name" :"Pate",
+                        "price" : 15,
+                        "image" : "./images/pate.webp"
+                    }
+                ]
+            },
+
+            {
+                "nom" : "Nos Dessert",
+                "products":[
+                    {
+                        "name" :"Brochette",
+                        "price" : 17,
+                        "image" : "./images/brochette.jpg"
+                    },
+                    {
+                        "name" :"salade",
+                        "price" : 10,
+                        "image" : "./images/salade.webp"
+                    },
+                    {
+                        "name" :"Pate",
+                        "price" : 15,
+                        "image" : "./images/pate.webp"
+                    }
+                ]
+            }
+    ]
+    
+}
