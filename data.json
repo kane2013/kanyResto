@@ -49,17 +49,17 @@
                     {
                         "name" :"Fraise au yaourt",
                         "price" : 7,
-                        "image" : "./images/dessert1.jpg"
+                        "image" : "./images/Dessert1.jpg"
                     },
                     {
                         "name" :"Glace",
                         "price" : 4,
-                        "image" : "./images/dessert2.jpg"
+                        "image" : "./images/Dessert2.jpg"
                     },
                     {
                         "name" :"Pasteque",
                         "price" : 3,
-                        "image" : "./images/dessert3.jpg"
+                        "image" : "./images/Dessert3.jpg"
                     }
                 ]
             }
