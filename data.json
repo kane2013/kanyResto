@@ -2,7 +2,7 @@
     "categories" :
     [
         {
-                "nom" : "Nos Incontournable",
+                "nom" : "Nos Incontournables",
                 "products":[
                     {
                         "name" :"Brochette",
@@ -23,43 +23,43 @@
             },
 
             {
-                "nom" : "Nos burger",
+                "nom" : "Nos burgers",
                 "products":[
                     {
-                        "name" :"Brochette",
-                        "price" : 17,
-                        "image" : "./images/brochette.jpg"
+                        "name" :"Burger au fromage",
+                        "price" : 9,
+                        "image" : "./images/burger1.jpg"
                     },
                     {
-                        "name" :"salade",
-                        "price" : 10,
-                        "image" : "./images/salade.webp"
+                        "name" :"Hamburger",
+                        "price" : 12,
+                        "image" : "./images/burger2.jpg"
                     },
                     {
-                        "name" :"Pate",
-                        "price" : 15,
-                        "image" : "./images/pate.webp"
+                        "name" :"Burger barbecue",
+                        "price" : 13,
+                        "image" : "./images/burger3.jpg"
                     }
                 ]
             },
 
             {
-                "nom" : "Nos Dessert",
+                "nom" : "Nos Desserts",
                 "products":[
                     {
-                        "name" :"Brochette",
-                        "price" : 17,
-                        "image" : "./images/brochette.jpg"
+                        "name" :"Fraise au yaourt",
+                        "price" : 7,
+                        "image" : "./images/dessert1.jpg"
                     },
                     {
-                        "name" :"salade",
-                        "price" : 10,
-                        "image" : "./images/salade.webp"
+                        "name" :"Glace",
+                        "price" : 4,
+                        "image" : "./images/dessert2.jpg"
                     },
                     {
-                        "name" :"Pate",
-                        "price" : 15,
-                        "image" : "./images/pate.webp"
+                        "name" :"Pasteque",
+                        "price" : 3,
+                        "image" : "./images/dessert3.jpg"
                     }
                 ]
             }
